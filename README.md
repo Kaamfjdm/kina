@@ -2,9 +2,9 @@
 
 Kina runs Kubernetes in [Apple Containerization](https://github.com/apple/containerization).
 
-This is just a quick workaround until `kind` officially supports Apple Containerization.
+This is just a quick workaround until `kind` officially supports Apple Containerization ([kubernetes-sigs/kind#3958](https://github.com/kubernetes-sigs/kind/issues/3958)).
 
-Made in an hour during [Container Install Meetup (KubeCon North America 2025)](https://www.meetup.com/kubernetes-atlanta-meetup/events/311768936/), as an exercise to learn Apple Containerization.
+The [original version](https://github.com/AkihiroSuda/kina/tree/v0.0.1) was made in an hour during the hands-on session at [Container Install Meetup (KubeCon North America 2025)](https://www.meetup.com/kubernetes-atlanta-meetup/events/311768936/), as an exercise to learn Apple Containerization.
 
 ## Installation
 

